@@ -2,7 +2,6 @@
 A simple yet powerful **desktop voice assistant** built using Python.  
 Jarvis can speak, listen, search Wikipedia, open websites, tell time, and more.
 
----
 
 ## 🚀 Features
 - 🎤 Voice input using Speech Recognition  
@@ -13,7 +12,6 @@ Jarvis can speak, listen, search Wikipedia, open websites, tell time, and more.
 - 🗂️ Can open local applications (VS Code example included)  
 - 👋 Greets user based on time (morning, afternoon, evening)
 
----
 
 ## 🛠️ Technologies Used
 - **Python**
@@ -24,7 +22,6 @@ Jarvis can speak, listen, search Wikipedia, open websites, tell time, and more.
 - **Webbrowser**  
 - **OS module**
 
----
 
 ## 📦 Requirements (Install these)
 Install required packages:
